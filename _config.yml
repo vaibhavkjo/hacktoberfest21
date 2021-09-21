@@ -2,7 +2,7 @@ title:              HacktoberFest at Women Who Code 2021
 email:              your-email@example.com
 description:        Your Journey towards Open Source
 author:             Women Who Code
-baseurl:            "hacktoberfest21"
+baseurl:            "/hacktoberfest21"
 url:                ""
 
 # Social Profiles
