@@ -8,9 +8,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
+        {% comment %} <li class="nav-item">
           <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
-        </li>
+        </li> {% endcomment %}
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">Resources</a>
         </li>
@@ -23,8 +23,17 @@
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">Data Science</a>
         </li>
-        <li class="nav-item">
+        {% comment %} <li class="nav-item">
+          <a class="nav-link" href="{{"/mobile" | relative_url }}">Mobile</a>
+        </li> {% endcomment %}
+        {% comment %} <li class="nav-item">
           <a class="nav-link" href="{{ "/posts" | relative_url }}">Blogs</a>
+        </li> {% endcomment %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/blockchain" | relative_url }}">Blockchain</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/Frontend" | relative_url }}">Frontend</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}">Feature</a>
