@@ -2,7 +2,7 @@
 layout: page
 title: Women Who Code Cloud Track
 permalink: /cloud/
-background: '/img/cloudtack.png'
+background: '/img/cloudtrack.png'
 ---
 
 **GitHub Repositories**
