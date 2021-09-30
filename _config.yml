@@ -6,11 +6,11 @@ baseurl:            "/hacktoberfest21"
 url:                ""
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   WomenWhoCode
+github_username:    WomenWhoCode
+facebook_username:  womenwhocode
+instagram_username: womenwhocode
+linkedin_username:  women-who-code
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
