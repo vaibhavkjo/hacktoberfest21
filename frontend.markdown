@@ -7,13 +7,27 @@ permalink: /frontend/
 
 ## Contribute in an Open Fashion!! 
 
-WWCode Frontend is doing a study group to contribute to beginner friendly repositories. 
-<br />
-<br />
-Want to be a part of it?
+Women Who Code Front End is doing a study group to contribute to a beginner-friendly GitHub repository to practice working on front end technologies in an open-source project.
 
-Check out their [website](https://frontendstudygroup.github.io/) and their [Study Group Series](https://us02web.zoom.us/webinar/register/WN_0i4q_-RxRnGyr3t_uD_XXw)
+### Want to be a part of it?
 
-<br />
-<br />
+Visit their website: [https://frontendstudygroup.github.io/](https://frontendstudygroup.github.io/)
+
+Contribute to their GitHub repository: 
+[https://github.com/frontendstudygroup/frontendstudygroup.github.io](https://github.com/frontendstudygroup/frontendstudygroup.github.io)
+
+How can you contribute?
+- Create Issues for suggestions, enhancements or defects
+- Add features or fix defects
+- Add documentation or tutorials for learning
+
+Got questions? Need help getting started? 
+[Join the WWC Front End Slack](https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A) and join the `#fe-beginner-studygroup` channel!
+
+### Want to learn more about open source?
+
+We are hosting sessions every Friday of October to hear from folks in the Open Source community.
+
+[Click here to register now!](https://us02web.zoom.us/webinar/register/WN_0i4q_-RxRnGyr3t_uD_XXw)
+
 <img src="{{site.baseurl}}/img/opensourcefrontend.jpeg" width='1000' height='500'>

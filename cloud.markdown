@@ -5,14 +5,29 @@ permalink: /cloud/
 background: '/img/cloudtrack.png'
 ---
 
-**GitHub Repositories**
+## Looking to contribute to an open source project?
 
-[Ansible](https://github.com/ansible/ansible)
-- [Click here for Hacktoberfest labeled issues](https://github.com/ansible/ansible/labels/hacktoberfest)
+Women Who Code Cloud is collaborating with Women Who Code Front End to work on a beginner-friendly GitHub repository to practice working with Cloud technologies.
 
-[Grafana](https://github.com/grafana/grafana)
-- [Click here for Hacktoberfest labeled issues](https://github.com/grafana/grafana/issues?q=is%3Aissue+is%3Aopen+hacktoberfest) 
+### Want to be a part of it?
 
-[Kubernetes](https://github.com/kubernetes/kubernetes)
-- [Click here for beginner-friendly good-first-issues collected by the team](https://github.com/kubernetes/kubernetes/contribute)
+Visit the website: [https://frontendstudygroup.github.io/](https://frontendstudygroup.github.io/)
+
+Contribute to the GitHub repository: 
+[https://github.com/frontendstudygroup/frontendstudygroup.github.io](https://github.com/frontendstudygroup/frontendstudygroup.github.io)
+
+How can you contribute?
+- Create Issues for suggestions, enhancements or defects
+- Add features or fix defects
+- Add documentation or tutorials for learning
+
+Got questions? Need help getting started? [Join the WWC Cloud Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw) and join the `#opensource` channel!
+
+### Other GitHub Repositories participating in Hacktoberfest
+
+[Ansible](https://github.com/ansible/ansible/labels/hacktoberfest)
+
+[Grafana](https://github.com/grafana/grafana/issues?q=is%3Aissue+is%3Aopen+hacktoberfest)
+
+[PowerShell](https://github.com/PowerShell/PowerShell/issues?q=is%3Aopen+label%3AHacktoberfest%2CHacktoberfest-Accepted)
 
