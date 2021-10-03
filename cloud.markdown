@@ -5,7 +5,7 @@ permalink: /cloud/
 background: '/img/cloudtrack.png'
 ---
 
-#### Table of Contents
+**Table of Contents**
 * TOC
 {:toc}
 
