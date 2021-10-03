@@ -24,3 +24,6 @@ This flexible and powerful data manipulation and analysis library for Python has
 
 ## PyTorch
 A Machine Learning framework that accelerates the pipeline from prototyping to deployment. This is a really advanced community with many channels of interaction. I’d say this is a great one to contribute to. You can find the GitHub page for their “good first issue” tag here.
+
+
+https://www.youtube.com/watch?v=2yr9NbTP_2E&t=13s

@@ -4,26 +4,14 @@ title: Women Who Code Cloud Track
 permalink: /cloud/
 background: '/img/cloudtrack.png'
 ---
+---------
+# Table of Contents
+* TOC
+{:toc}
+--------
+<br />
 
-## Looking to contribute to an open source project?
-
-Women Who Code Cloud is collaborating with Women Who Code Front End to work on a beginner-friendly GitHub repository to practice working with Cloud technologies.
-
-### Want to be a part of it?
-
-Visit the website: [https://frontendstudygroup.github.io/](https://frontendstudygroup.github.io/)
-
-Contribute to the GitHub repository: 
-[https://github.com/frontendstudygroup/frontendstudygroup.github.io](https://github.com/frontendstudygroup/frontendstudygroup.github.io)
-
-How can you contribute?
-- Create Issues for suggestions, enhancements or defects
-- Add features or fix defects
-- Add documentation or tutorials for learning
-
-Got questions? Need help getting started? [Join the WWC Cloud Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw) and join the `#opensource` channel!
-
-### Other GitHub Repositories participating in Hacktoberfest
+# Areas to contribute: Beginner Friendly Repositories 
 
 [Ansible](https://github.com/ansible/ansible/labels/hacktoberfest)
 
@@ -31,3 +19,25 @@ Got questions? Need help getting started? [Join the WWC Cloud Slack](https://joi
 
 [PowerShell](https://github.com/PowerShell/PowerShell/issues?q=is%3Aopen+label%3AHacktoberfest%2CHacktoberfest-Accepted)
 
+# Events to check out
+
+- Looking to contribute to an open source project?
+
+    Women Who Code Cloud is collaborating with Women Who Code Front End to work on a beginner-friendly GitHub repository to practice working with Cloud technologies.
+
+    <b> Want to be a part of it?<b>
+
+    Visit the website: [https://frontendstudygroup.github.io/](https://frontendstudygroup.github.io/)
+
+- Contribute to the GitHub repository: 
+[https://github.com/frontendstudygroup/frontendstudygroup.github.io](https://github.com/frontendstudygroup/frontendstudygroup.github.io)
+
+- How can you contribute?
+    - Create Issues for suggestions, enhancements or defects
+    - Add features or fix defects
+    - Add documentation or tutorials for learning
+
+
+# [Join Women Who Code Cloud](https://linktr.ee/wwcodecloud)
+<br/>
+Got questions? Need help getting started? [Join the WWC Cloud Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw) and join the `#opensource` channel!
