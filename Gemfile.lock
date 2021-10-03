@@ -84,7 +84,6 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jekyll-theme-clean-blog
-  jekyll-toc
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
