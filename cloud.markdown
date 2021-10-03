@@ -3,8 +3,11 @@ layout: page
 title: Women Who Code Cloud Track
 permalink: /cloud/
 background: '/img/cloudtrack.png'
-toc: true
 ---
+
+#### Table of Contents
+* TOC
+{:toc}
 
 # Areas to contribute: Beginner Friendly Repositories 
 
