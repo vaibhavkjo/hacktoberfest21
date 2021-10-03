@@ -3,13 +3,14 @@ layout: page
 title: Women Who Code Cloud Track
 permalink: /cloud/
 background: '/img/cloudtrack.png'
+toc: true
 ---
 
-## Looking to contribute to an open source project?
+# Looking to contribute to an open source project?
 
 Women Who Code Cloud is collaborating with Women Who Code Front End to work on a beginner-friendly GitHub repository to practice working with Cloud technologies.
 
-### Want to be a part of it?
+## Want to be a part of it?
 
 Visit the website: [https://frontendstudygroup.github.io/](https://frontendstudygroup.github.io/)
 
@@ -23,7 +24,7 @@ How can you contribute?
 
 Got questions? Need help getting started? [Join the WWC Cloud Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw) and join the `#opensource` channel!
 
-### Other GitHub Repositories participating in Hacktoberfest
+## Other GitHub Repositories participating in Hacktoberfest
 
 [Ansible](https://github.com/ansible/ansible/labels/hacktoberfest)
 
