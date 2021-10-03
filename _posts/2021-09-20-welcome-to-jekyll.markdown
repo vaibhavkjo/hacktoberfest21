@@ -2,11 +2,13 @@
 layout: post
 title:  "Welcome to Hacktoberfest 2021"
 categories: jekyll update
+toc: true
 ---
+# Hacktoberfest
 Hacktoberfest is near and Women Who Code wants to help it's members contribute this year. Learn how to do so..
 
 
-
+## Some text 
 Open Source Contributions are a great way for beginners to wet their feet into the world of coding. 
 OSS is all around us, from Linux systems we use everyday to the tools we use for code development. 
 Contributing to OSS is a great way to be a part of an ecosystem which nutures growth and helps you be a part of a bigger picture. 
