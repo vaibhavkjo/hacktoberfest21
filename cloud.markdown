@@ -5,12 +5,6 @@ permalink: /cloud/
 background: '/img/cloudtrack.png'
 toc: true
 ---
----------
-# Table of Contents
-* TOC
-{:toc}
---------
-<br />
 
 # Areas to contribute: Beginner Friendly Repositories 
 
