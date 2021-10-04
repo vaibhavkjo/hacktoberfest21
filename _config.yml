@@ -5,13 +5,6 @@ author:             Women Who Code
 baseurl:            "/hacktoberfest21"
 url:                ""
 
-# Social Profiles
-twitter_username:   WomenWhoCode
-github_username:    WomenWhoCode
-facebook_username:  womenwhocode
-instagram_username: womenwhocode
-linkedin_username:  women-who-code
-
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 

@@ -3,6 +3,11 @@ layout: page
 title: Women Who Code Cloud Track
 permalink: /cloud/
 background: '/img/cloudtrack.png'
+twitter_username: WWCodeCloud
+github_url: https://github.com/WomenWhoCode/WWCodeCloud
+facebook_username: wwcodecloud
+instagram_username: wwcodecloud
+linkedin_username: women-who-code-cloud
 ---
 
 **Table of Contents**
