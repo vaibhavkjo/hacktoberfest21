@@ -9,10 +9,10 @@ facebook_username: wwcodecloud
 instagram_username: wwcodecloud
 linkedin_username: women-who-code-cloud
 ---
-
+<!-- 
 **Table of Contents**
 * TOC
-{:toc}
+{:toc} -->
 
 # Areas to contribute: Beginner Friendly Repositories 
 
