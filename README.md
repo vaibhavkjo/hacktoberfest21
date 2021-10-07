@@ -18,6 +18,30 @@ To contribute to this repository, please follow the steps below:
 5. Create a pull request to this repository with a description of what you have done.
 6. One of the repository contributors will review and merge if we agree that we would like to include your changes.
 
+### Areas to Contribute
+
+You can help contribute in various ways:
+
+1. Beginner Friendly Repositories: For any of the technical stack, if you come across any repositories which you believe will be a great start for beginners, do add them to the respective tabs(Python, Cloud, Mobile, Frontend, Data Science, Blockchain). You can check if the repositories are beginner-friendly if:
+  a. They have a good structure for contribution. This means code is readable and it is ready for folks to start raising PRs
+  b. They are actively responding to issues and merging PRs
+  c. If they have a good issues raised
+
+  If the repository is simple, but has good activity, it is perfect candidate
+3. Blogs: Open Source Friendly: If you have written any blogs on open source contributions,do send them our way and we would love to feature them. If you want to directly add it to the repo,follow the steps:
+  1. go to _posts folder
+  2. Convert your blog to markdown 
+  3. Add the following on top:
+  
+    `  ---
+      layout: post
+      title:  "Your title"
+      author: "Your name"
+      ---`
+  4. Name your file as `date of publishing-name` for example "2021-10-07-beginners-checklist.md"
+  5. Add it to a separate branch
+  6. And don't forget to add the `hacktoberfest` tag
+
 ### Local setup
 
 You will need to install Jekyll on your machine following the instructions on their [website](https://jekyllrb.com/docs/installation/).
