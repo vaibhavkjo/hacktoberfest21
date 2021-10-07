@@ -10,18 +10,8 @@ instagram_username: wwcodepython
 linkedin_username: women-who-code-python
 ---
 
-**Beginner Friendly Repositories**
+# Areas to contribute: Beginner Friendly Repositories
 
-[Vwger Workout Manager](https://github.com/wger-project/wger)
-<br />
-[Nikola](https://getnikola.com/)
-<br />
-[sklean-genetic-opt](https://sklearn-genetic-opt.readthedocs.io/en/latest/)
-<br />
-[covidx](https://www.covidsos.net/website/home.html)
-<br />
-[Oppia](https://github.com/oppia/oppia)
-<br />
 [beets](https://github.com/beetbox/beets)
 <br />
 [poetry](https://github.com/python-poetry/poetry)
@@ -33,9 +23,9 @@ linkedin_username: women-who-code-python
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 <br />
 
-**Events to check out**
+# Events to check out
 
-<img src = "{{site.baseurl}}/img/event.png" width="300" height="300">
+[<img src = "{{site.baseurl}}/img/event.png" width="300" height="300">](https://www.youtube.com/watch?v=i-Mxkvo1_Fc&t=26s)
 
 # [Join Women Who Code Python](https://linktr.ee/wwcodepython)
 <br />

@@ -24,6 +24,9 @@ linkedin_username: women-who-code-cloud
 
 # Events to check out
 
+[<img src = "{{site.baseurl}}/img/eventcloud.png" width="300" height="300">](https://us02web.zoom.us/webinar/register/WN_8Rki_P9XQlqrLt0qguvcPQ)
+
+
 - Looking to contribute to an open source project?
 
     Women Who Code Cloud is collaborating with Women Who Code Front End to work on a beginner-friendly GitHub repository to practice working with Cloud technologies.

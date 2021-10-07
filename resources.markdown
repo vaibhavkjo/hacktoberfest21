@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: checklist
 title: Resources
 permalink: /resources/
 background: '/img/resources.png'
@@ -29,21 +29,3 @@ If you have never made a pull request in Github before, this repository walks yo
 
 [Click here to get started!](https://github.com/firstcontributions/first-contributions/blob/master/README.md)
 
-## Recommended Resources for Beginners
-
-[GitHub Desktop Tutorial](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-If you're not familiar with CLI (Command Line Interface), take a look into GitHub Desktop, which is a GUI that helps beginners start with Git.
-
-[First Timers Only](https://www.firsttimersonly.com)
-
-[first-contribution](https://github.com/firstcontributions/first-contributions)
-
-[Up for Grabs](https://up-for-grabs.net)
-
-[Awesome For Beginners](https://github.com/mungell/awesome-for-beginners)
-
-[Awesome For Non-Programmers](https://github.com/szabgab/awesome-for-non-programmers)
-
-[Git Tutorial](https://git-scm.com/docs/gittutorial)
-
-[Other resources on Hacktoberfest official website](https://hacktoberfest.digitalocean.com/resources/beginners)
