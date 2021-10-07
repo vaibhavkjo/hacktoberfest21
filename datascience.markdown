@@ -10,7 +10,7 @@ instagram_username: wwcodedatascience
 linkedin_username: women-who-code-data-science
 ---
 
-# Beginner Friendly Repositories:
+## Beginner Friendly Repositories:
 
 <br />
 If you’re into data science and ML, chances are you’ve used or at least come across these before, making them excellent starting points.
@@ -28,6 +28,21 @@ https://www.youtube.com/watch?v=2yr9NbTP_2E&t=13s
 ## Projects for more Advanced Contributors
 If you have some open-source experience, you can consider contributing to these projects:
 
+<<<<<<< Updated upstream
 - [numpy](https://github.com/numpy/numpy): While not really an ML-specific library, numpy offers powerful numerical computing tools that often go hand-in-hand with data science work in Python. They seem to value their community, judging by their website, which is a good sign for new contributors. You can find the GitHub page for their [good first issue](https://github.com/numpy/numpy/labels/good%20first%20issue) tag.
 
 - [matplotlib](): The Python data visualisation library we know and love. Their website has very comprehensive [contribution guidelines](https://matplotlib.org/devdocs/devel/contributing.html). You can find the GitHub page for their good first issue tag [here](https://github.com/matplotlib/matplotlib/labels/Good%20first%20issue).
+=======
+https://www.youtube.com/watch?v=2yr9NbTP_2E&t=13s
+
+## Events to check out
+
+1. Come Learn about OpenCV and contribute in a Beginner Friendly Manner
+
+
+[<img src="{{site.baseurl}}/img/pythonlibraries.png" width='300' height='300'>](https://us02web.zoom.us/webinar/register/WN_UE1OGPiHSom-9Tk33CzVFw)
+
+## [Join Women Who Code Data Science]()
+<br />
+Got questions? Need help getting started? [Join the WWC Data Science Slack](https://join.slack.com/t/wwcodedatascience/shared_invite/zt-fpm2dfia-pyyW5Gqlf4B9MViRxpqDqA)
+>>>>>>> Stashed changes

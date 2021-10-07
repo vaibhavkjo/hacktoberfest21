@@ -24,7 +24,11 @@ linkedin_username: women-who-code-python
 
 # Events to check out
 
-[<img src = "{{site.baseurl}}/img/event.png" width="300" height="300">](https://www.youtube.com/watch?v=i-Mxkvo1_Fc&t=26s)
+1. Check out our past event on Open Source contributions
+[<img src = "{{site.baseurl}}/img/event.png" width="250" height="250">](https://www.youtube.com/watch?v=i-Mxkvo1_Fc&t=26s)
+<br />
+2. Come Learn about OpenCV and contribute in a Beginner Friendly Manner
+[<img src="{{site.baseurl}}/img/pythonlibraries.png" width='250' height='250'>](https://us02web.zoom.us/webinar/register/WN_UE1OGPiHSom-9Tk33CzVFw)
 
 # [Join Women Who Code Python](https://linktr.ee/wwcodepython)
 <br />
