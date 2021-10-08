@@ -37,12 +37,12 @@ If you have some open-source experience, you can consider contributing to these 
 
 ## Events to check out
 
-1. Come Learn about OpenCV and contribute in a Beginner Friendly Manner
+1.Come Learn about OpenCV and contribute in a Beginner Friendly Manner
 
 
 [<img src="{{site.baseurl}}/img/pythonlibraries.png" width='300' height='300'>](https://us02web.zoom.us/webinar/register/WN_UE1OGPiHSom-9Tk33CzVFw)
 
-2. Join the event with [OmdenaLore: World's first and biggest, AI4GOOD library](https://us02web.zoom.us/webinar/register/WN_tuiwAD4iS6GxQFyucb8R2Q)
+2.Join the event with [OmdenaLore: World's first and biggest, AI4GOOD library](https://us02web.zoom.us/webinar/register/WN_tuiwAD4iS6GxQFyucb8R2Q)
 
 ## [Join Women Who Code Data Science]()
 <br />
