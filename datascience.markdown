@@ -42,6 +42,8 @@ If you have some open-source experience, you can consider contributing to these 
 
 [<img src="{{site.baseurl}}/img/pythonlibraries.png" width='300' height='300'>](https://us02web.zoom.us/webinar/register/WN_UE1OGPiHSom-9Tk33CzVFw)
 
+2. Join the event with [OmdenaLore: World's first and biggest, AI4GOOD library](https://us02web.zoom.us/webinar/register/WN_tuiwAD4iS6GxQFyucb8R2Q)
+
 ## [Join Women Who Code Data Science]()
 <br />
 Got questions? Need help getting started? [Join the WWC Data Science Slack](https://join.slack.com/t/wwcodedatascience/shared_invite/zt-fpm2dfia-pyyW5Gqlf4B9MViRxpqDqA)
