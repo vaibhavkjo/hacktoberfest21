@@ -28,6 +28,9 @@ Here are some cool projects that you can contribute to to get started:
 - [Traccar](https://github.com/traccar/traccar): This is a Java based open-source GPS tracking system. They have apps for both Android and iOS, so you can contribute whether you know Kotlin or Swift!
 <br />
 
+- [Brain Marks](https://github.com/mikaelacaron/brain-marks): An open-source iOS app to help your organize tweets you'd like to save. This project started as a 24-hour Hackathon project and since has been fully open sourced for Hacktoberfest. The app is 100% SwiftUI, uses the Twitter API, and AWS Amplify DataStore. See the [README](https://github.com/mikaelacaron/brain-marks) file to get started.
+<br />
+
 ## Events to check out
 
 **COMING SOON!!**
