@@ -34,3 +34,9 @@ We are hosting sessions every Friday of October to hear from folks in the Open S
 [Click here to register now!](https://us02web.zoom.us/webinar/register/WN_0i4q_-RxRnGyr3t_uD_XXw)
 
 <img src="{{site.baseurl}}/img/opensourcefrontend.jpeg" width='1000' height='500'>
+
+## Beginner Friendly Repositories
+
+Listed below are some cool front end projects that you can contribute to to get started:
+
+- [Scrollodex](https://github.com/wwcodecolorado/scrollodex): A fun place for Women Who Code members to add and display their business cards.
