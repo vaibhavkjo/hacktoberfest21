@@ -23,9 +23,16 @@ Check out the tutorial with [Lisa Tagliaferri](https://www.linkedin.com/in/lisa-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/i-Mxkvo1_Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+### Need a refresher on Git vs GitHub? 
+Here is a resource to learn about the basics of Git and GitHub for beginners from [Sunitha Patel](https://www.linkedin.com/in/sunitha-patel/).
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TVUOStcU1ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### Want to make a pull request right now?
 
 If you have never made a pull request in Github before, this repository walks you step by step how to make a pull request to it and it will get merged immediately!
 
 [Click here to get started!](https://github.com/firstcontributions/first-contributions/blob/master/README.md)
+
 
