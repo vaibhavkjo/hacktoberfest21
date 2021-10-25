@@ -40,3 +40,5 @@ We are hosting sessions every Friday of October to hear from folks in the Open S
 Listed below are some cool front end projects that you can contribute to to get started:
 
 - [Scrollodex](https://github.com/wwcodecolorado/scrollodex): A fun place for Women Who Code members to add and display their business cards.
+- https://github.com/iiitv/hacktoberfest21-web-gdsc-iiitv
+- https://github.com/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV : A web development repository for adding and debugging projects.
