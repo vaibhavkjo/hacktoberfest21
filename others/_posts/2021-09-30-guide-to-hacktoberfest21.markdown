@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Hacktoberfest 2021"
+title: "Guide to Hacktoberfest 2021"
 categories: jekyll update
 author: Chethana Gopinath
 ---
@@ -66,6 +66,7 @@ First off, pat yourself on the back for wanting to contribute to open source and
 DISCLAIMER - some/all of the options mentioned below need to first be checked with the maintainer(s) of the repo and then done.
 
 - Most mid-sized projects lack proper documentation/may have some stuff to be changed within the README and docs. Now's your time to shine, pick that work up and do it so that other developers thank you for it later on. Documentation is perhaps one of the most important tools to any developer out there, including yourself.
+- In addition to the above point, you could also just run through the environment setup with the given instructions in the README and see if you need to modify/make the current setup instructions better in case you encounter an error that isn't mentioned there.
 - Tests :) that's right. Check if the project has sufficient test coverage or may need some love with some tests and work on them.
 - Code quality - check if you can write existing code cleaner and also be ready to show why your way of writing that code snippet is cleaner :)
 - Start by working on bugs/issues that are open and may contain the label `good first issue` or `first timers only` or something like `issue size: small` showing an indication that it is a small issue.
