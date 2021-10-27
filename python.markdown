@@ -2,7 +2,7 @@
 layout: page
 title: Women Who Code Python Track
 permalink: /python/
-background: '/img/pythontrack.png'
+background: "/img/pythontrack.png"
 twitter_username: WWCodePython
 github_url: https://github.com/WomenWhoCode/WWCodePython
 facebook_username: WWCodePython
@@ -22,14 +22,17 @@ linkedin_username: women-who-code-python
 
 - [sanic](https://github.com/sanic-org/sanic): Sanic is a framework to build async web services. The developers at sanic have done a lot of work to make building async projects easy for us, and now you can help them by checking out their beginner issues [here](https://github.com/sanic-org/sanic/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner).
 
+- [pokeapi](https://github.com/PokeAPI/pokeapi): Do you love Pokemon and want Pokemon data for some fun projects? This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series. Check out their website [here](https://pokeapi.co/)!
+
 # Events to check out
 
 1. Check out our past event on Open Source contributions
-[<img src = "{{site.baseurl}}/img/event.png" width="250" height="250">](https://www.youtube.com/watch?v=i-Mxkvo1_Fc&t=26s)
-<br />
+   [<img src = "{{site.baseurl}}/img/event.png" width="250" height="250">](https://www.youtube.com/watch?v=i-Mxkvo1_Fc&t=26s)
+   <br />
 2. Come Learn about OpenCV and contribute in a Beginner Friendly Manner
-[<img src="{{site.baseurl}}/img/pythonlibraries.png" width='250' height='250'>](https://us02web.zoom.us/webinar/register/WN_UE1OGPiHSom-9Tk33CzVFw)
+   [<img src="{{site.baseurl}}/img/pythonlibraries.png" width='250' height='250'>](https://us02web.zoom.us/webinar/register/WN_UE1OGPiHSom-9Tk33CzVFw)
 
 # [Join Women Who Code Python](https://linktr.ee/wwcodepython)
+
 <br />
 Got questions? Need help getting started? [Join the WWC Python Slack](https://join.slack.com/t/wwcodepython/shared_invite/zt-m361di68-03G9V7OpYxW8nCSXC9n4WA) and join the `#hacktoberfest` channel!
